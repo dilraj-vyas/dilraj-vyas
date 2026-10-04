@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Java Backend Engineer · 12+ years · Payments & Distributed Systems</b><br>
-  Kafka-driven, event-driven backends at scale — 10,000 TPS at sub-50ms p99.<br>
+  Kafka-driven, event-driven backends at scale - 10,000 TPS at sub-50ms p99.<br>
   📍 Bengaluru, India &nbsp;·&nbsp; 🌐 <b>Open to remote backend / fintech roles</b>
 </p>
 
