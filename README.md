@@ -49,7 +49,7 @@ I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)*
 - **Principal Software Engineer / Founder - Cognitosoft** (2024–present): payment-grade microservices on AWS; cut mean-time-to-detect from hours to <5 min.
 - **Scrum Lead / Senior SWE - Honeywell** (2021–2024): led DB migration Cosmos DB → PostgreSQL; drove TDD and code-review culture.
 - **Tech Lead - Xiaomi India** (2019–2021): built mi.com logistics & payments platform (2M req/day, India/France/Indonesia/Russia); led a 30-member global team; absorbed 10× flash-sale traffic.
-- Earlier: Backend roles at **Cisco**, **Paladion Networks**, and others — Java backends under real production pressure.
+- Earlier: Backend roles at **Cisco**, **Paladion Networks**, and others - Java backends under real production pressure.
 
 ---
 
