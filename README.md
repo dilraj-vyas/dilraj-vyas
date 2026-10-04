@@ -1,4 +1,4 @@
-<!-- HOW TO USE THIS FILE 1. Create a new PUBLIC repo named EXACTLY: dilraj-vyas (i.e. github.com/dilraj-vyas/dilraj-vyas) 2. Add this file as README.md in that repo. GitHub renders it on your profile automatically. 3. Only thing left to edit: fill the "Open Source" PR links as your Debezium PRs merge. Everything else (name, email, LinkedIn) is pre-filled — pure copy-paste. --> <h1 align="center">Hi, I'm Dilraj Vyas 👋</h1> <p align="center"> <b>Senior Java Backend Engineer · 12+ years · Payments & Distributed Systems</b><br> Kafka-driven, event-driven backends at scale — 10,000 TPS at sub-50ms p99.<br> 📍 Bengaluru, India &nbsp;·&nbsp; 🌐 <b>Open to remote backend / fintech roles</b> </p> <p align="center"> <a href="mailto:dilraj.vas@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/dilraj-vyas-53a687b0">LinkedIn</a> </p>
+<h1 align="center">Hi, I'm Dilraj Vyas 👋</h1> <p align="center"> <b>Senior Java Backend Engineer · 12+ years · Payments & Distributed Systems</b><br> Kafka-driven, event-driven backends at scale — 10,000 TPS at sub-50ms p99.<br> 📍 Bengaluru, India &nbsp;·&nbsp; 🌐 <b>Open to remote backend / fintech roles</b> </p> <p align="center"> <a href="mailto:dilraj.vas@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/dilraj-vyas-53a687b0">LinkedIn</a> </p>
 🚀 What I do
 I build high-throughput payment and order-management systems — the kind where correctness under concurrency, idempotency, and latency actually matter. Java + Spring Boot microservices, event-driven with Kafka, on AWS and Kubernetes. I've led teams (Scrum Lead at Honeywell, Tech Lead of a 30-member global team at Xiaomi) and built platforms serving millions of requests a day across four countries.
 
@@ -7,12 +7,10 @@ I build high-throughput payment and order-management systems — the kind where 
 📊 Data pipelines feeding ML-driven fraud detection and analytics
 🧰 Daily user of GitHub Copilot, Claude Code, Cursor; building LLM workflows with MCP
 🌱 Open Source
-I contribute to Debezium — Red Hat's change-data-capture platform that streams database changes into Kafka. It's the exact intersection of my work: CDC, Kafka, and Postgres/MySQL at scale.
+I'm actively contributing to Debezium — Red Hat's change-data-capture platform that streams database changes into Kafka. It's the exact intersection of my work: CDC, Kafka, and Postgres/MySQL at scale. Focused on the relational connectors.
 
-<PR_LINK_1> — <one-line what it did, e.g. "PostgreSQL connector: fixed …">
-<PR_LINK_2> — <…>
-<PR_LINK_3> — <…>
-(Fill these in as PRs merge. Keep them focused on the Postgres/MySQL connectors so the story reads "I work on Debezium's relational connectors.")
+<!-- As each PR merges, replace this line with a bullet list, e.g.: - #1234 — PostgreSQL connector: fixed … -->
+🔧 Contributions in progress — merged PRs will be listed here.
 
 🛠️ Tech Stack
 Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
