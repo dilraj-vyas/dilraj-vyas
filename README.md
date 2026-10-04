@@ -28,7 +28,7 @@ I build **high-throughput payment and order-management systems** - the kind wher
 
 I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)** - Red Hat's change-data-capture platform that streams database changes into Kafka. It's the exact intersection of my work: CDC, Kafka, and Postgres/MySQL at scale. Focused on the relational connectors.
 
-🔧 *Contributions in progress — merged PRs will be listed here.*
+🔧 *Contributions in progress - merged PRs will be listed here.*
 
 ---
 
