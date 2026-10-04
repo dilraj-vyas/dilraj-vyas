@@ -15,7 +15,7 @@
 
 ### 🚀 What I do
 
-I build **high-throughput payment and order-management systems** — the kind where correctness under concurrency, idempotency, and latency actually matter. Java + Spring Boot microservices, event-driven with Kafka, on AWS and Kubernetes. I've led teams (Scrum Lead at Honeywell, Tech Lead of a 30-member global team at Xiaomi) and built platforms serving millions of requests a day across four countries.
+I build **high-throughput payment and order-management systems** - the kind where correctness under concurrency, idempotency, and latency actually matter. Java + Spring Boot microservices, event-driven with Kafka, on AWS and Kubernetes. I've led teams (Scrum Lead at Honeywell, Tech Lead of a 30-member global team at Xiaomi) and built platforms serving millions of requests a day across four countries.
 
 - ⚡ Payment/order APIs sustaining **10k TPS at <50ms p99** (Kafka matching engine, price-time priority)
 - 🔐 PCI-aligned, idempotent, encrypted payment flows — **zero critical production bugs over six months**
