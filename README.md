@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Dilraj Vyas 👋</h1>
 
 <p align="center">
-  <b>Senior Java Backend Engineer · 12+ years · Payments & Distributed Systems</b><br>
-  Kafka-driven, event-driven backends at scale - 10,000 TPS at sub-50ms p99.<br>
+  <b>Senior Java Backend Engineer · 12+ years · Apache Kafka · Payments · Distributed Systems</b><br>
+  Deep Kafka at scale — producers, consumers, partitioning, event sourcing, idempotent processing — powering payment platforms at 10,000 TPS, sub-50ms p99.<br>
   📍 Bengaluru, India &nbsp;·&nbsp; 🌐 <b>Open to remote backend / fintech roles</b>
 </p>
 
@@ -17,7 +17,7 @@
 
 I build **high-throughput payment and order-management systems** - the kind where correctness under concurrency, idempotency, and latency actually matter. Java + Spring Boot microservices, event-driven with Kafka, on AWS and Kubernetes. I've led teams (Scrum Lead at Honeywell, Tech Lead of a 30-member global team at Xiaomi) and built platforms serving millions of requests a day across four countries.
 
-- ⚡ Payment/order APIs sustaining **10k TPS at <50ms p99** (Kafka matching engine, price-time priority)
+- 🚀 **Apache Kafka at scale** — producers, consumers, partitioning, event sourcing, idempotent/exactly-once processing; built a Kafka matching engine sustaining **10k TPS at <50ms p99**
 - 🔐 PCI-aligned, idempotent, encrypted payment flows - **zero critical production bugs over six months**
 - 📊 Data pipelines feeding **ML-driven fraud detection** and analytics
 - 🧰 Daily user of **GitHub Copilot, Claude Code, Cursor**; building LLM workflows with **MCP**
@@ -37,7 +37,8 @@ I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)*
 
 - **Languages:** Java (8–21), Python, SQL, Bash
 - **Frameworks:** Spring Boot / MVC / Security / Data-JPA, Hibernate, REST, Microservices, Event-Driven
-- **Messaging & Data:** Kafka, PostgreSQL, Redis, MongoDB, DynamoDB, Elasticsearch
+- **Kafka & Streaming:** Apache Kafka (producers, consumers, partitioning, event sourcing, idempotent/exactly-once), Kafka Connect & CDC (Debezium)
+- **Data stores:** PostgreSQL, Redis, MongoDB, DynamoDB, Elasticsearch
 - **Cloud & Infra:** AWS (EC2, RDS, Lambda, API Gateway, EKS, S3, SQS/SNS), Kubernetes, Docker, Terraform
 - **CI/CD & Quality:** Jenkins, GitHub Actions, Maven, JUnit 5, Testcontainers, SonarQube
 - **Observability:** Datadog, CloudWatch, Prometheus, Grafana
