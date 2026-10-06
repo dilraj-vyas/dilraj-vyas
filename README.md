@@ -28,7 +28,8 @@ I build **high-throughput payment and order-management systems** - the kind wher
 
 I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)** - Red Hat's change-data-capture platform that streams database changes into Kafka. It's the exact intersection of my work: CDC, Kafka, and Postgres/MySQL at scale. Focused on the relational connectors.
 
-🔧 *Contributions in progress - merged PRs will be listed here.*
+**Contributions:**
+- [debezium/debezium#8176](https://github.com/debezium/debezium/pull/8176) — PostgreSQL connector: preserve NULL elements in enum arrays *(in review)*
 
 ---
 
