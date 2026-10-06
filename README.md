@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Java Backend Engineer · 12+ years · Apache Kafka · Payments · Distributed Systems</b><br>
-  Deep Kafka at scale — producers, consumers, partitioning, event sourcing, idempotent processing — powering payment platforms at 10,000 TPS, sub-50ms p99.<br>
+  Deep Kafka at scale - producers, consumers, partitioning, event sourcing, idempotent processing - powering payment platforms at 10,000 TPS, sub-50ms p99.<br>
   📍 Bengaluru, India &nbsp;·&nbsp; 🌐 <b>Open to remote backend / fintech roles</b>
 </p>
 
@@ -17,7 +17,7 @@
 
 I build **high-throughput payment and order-management systems** - the kind where correctness under concurrency, idempotency, and latency actually matter. Java + Spring Boot microservices, event-driven with Kafka, on AWS and Kubernetes. I've led teams (Scrum Lead at Honeywell, Tech Lead of a 30-member global team at Xiaomi) and built platforms serving millions of requests a day across four countries.
 
-- 🚀 **Apache Kafka at scale** — producers, consumers, partitioning, event sourcing, idempotent/exactly-once processing; built a Kafka matching engine sustaining **10k TPS at <50ms p99**
+- 🚀 **Apache Kafka at scale** - producers, consumers, partitioning, event sourcing, idempotent/exactly-once processing; built a Kafka matching engine sustaining **10k TPS at <50ms p99**
 - 🔐 PCI-aligned, idempotent, encrypted payment flows - **zero critical production bugs over six months**
 - 📊 Data pipelines feeding **ML-driven fraud detection** and analytics
 - 🧰 Daily user of **GitHub Copilot, Claude Code, Cursor**; building LLM workflows with **MCP**
@@ -29,7 +29,7 @@ I build **high-throughput payment and order-management systems** - the kind wher
 I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)** - Red Hat's change-data-capture platform that streams database changes into Kafka. It's the exact intersection of my work: CDC, Kafka, and Postgres/MySQL at scale. Focused on the relational connectors.
 
 **Contributions:**
-- [debezium/debezium#8176](https://github.com/debezium/debezium/pull/8176) — PostgreSQL connector: preserve NULL elements in enum arrays *(in review)*
+- [debezium/debezium#8176](https://github.com/debezium/debezium/pull/8176) - PostgreSQL connector: preserve NULL elements in enum arrays *(in review)*
 
 ---
 
