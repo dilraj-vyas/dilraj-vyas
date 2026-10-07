@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Java Backend Engineer · 12+ years · Apache Kafka · Payments · Distributed Systems</b><br>
-  Deep Kafka at scale - producers, consumers, partitioning, event sourcing, idempotent processing - powering payment platforms at 10,000 TPS, sub-50ms p99.<br>
+  Deep Kafka at scale: producers, consumers, partitioning, event sourcing, idempotent processing. Powering payment platforms at 10,000 TPS, sub-50ms p99.<br>
   📍 Bengaluru, India &nbsp;·&nbsp; 🌐 <b>Open to remote backend / fintech roles</b>
 </p>
 
@@ -15,10 +15,10 @@
 
 ### 🚀 What I do
 
-I build **high-throughput payment and order-management systems** - the kind where correctness under concurrency, idempotency, and latency actually matter. Java + Spring Boot microservices, event-driven with Kafka, on AWS and Kubernetes. I've led teams (Scrum Lead at Honeywell, Tech Lead of a 30-member global team at Xiaomi) and built platforms serving millions of requests a day across four countries.
+I build **high-throughput payment and order-management systems**, the kind where correctness under concurrency, idempotency, and latency actually matter. Java + Spring Boot microservices, event-driven with Kafka, on AWS and Kubernetes. I've led teams (Scrum Lead at Honeywell, Tech Lead of a 30-member global team at Xiaomi) and built platforms serving millions of requests a day across four countries.
 
-- 🚀 **Apache Kafka at scale** - producers, consumers, partitioning, event sourcing, idempotent/exactly-once processing; built a Kafka matching engine sustaining **10k TPS at <50ms p99**
-- 🔐 PCI-aligned, idempotent, encrypted payment flows - **zero critical production bugs over six months**
+- 🚀 **Apache Kafka at scale**: producers, consumers, partitioning, event sourcing, idempotent/exactly-once processing; built a Kafka matching engine sustaining **10k TPS at <50ms p99**
+- 🔐 PCI-aligned, idempotent, encrypted payment flows: **zero critical production bugs over six months**
 - 📊 Data pipelines feeding **ML-driven fraud detection** and analytics
 - 🧰 Daily user of **GitHub Copilot, Claude Code, Cursor**; building LLM workflows with **MCP**
 
@@ -48,10 +48,10 @@ I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)*
 
 ### 💼 Experience highlights
 
-- **Principal Software Engineer / Founder - Cognitosoft** (2024–present): payment-grade microservices on AWS; cut mean-time-to-detect from hours to <5 min.
-- **Scrum Lead / Senior SWE - Honeywell** (2021–2024): led DB migration Cosmos DB → PostgreSQL; drove TDD and code-review culture.
-- **Tech Lead - Xiaomi India** (2019–2021): built mi.com logistics & payments platform (2M req/day, India/France/Indonesia/Russia); led a 30-member global team; absorbed 10× flash-sale traffic.
-- Earlier: Backend roles at **Cisco**, **Paladion Networks**, and others - Java backends under real production pressure.
+- **Principal Software Engineer / Founder, Cognitosoft** (2024-present): payment-grade microservices on AWS; cut mean-time-to-detect from hours to <5 min.
+- **Scrum Lead / Senior SWE, Honeywell** (2021-2024): led DB migration Cosmos DB to PostgreSQL; drove TDD and code-review culture.
+- **Tech Lead, Xiaomi India** (2019-2021): built mi.com logistics & payments platform (2M req/day, India/France/Indonesia/Russia); led a 30-member global team; absorbed 10x flash-sale traffic.
+- Earlier: Backend roles at **Cisco**, **Paladion Networks**, and others, Java backends under real production pressure.
 
 ---
 
