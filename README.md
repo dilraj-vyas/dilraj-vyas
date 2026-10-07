@@ -35,7 +35,7 @@ I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)*
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java (8–21), Python, SQL, Bash
+- **Languages:** Java (8-21), Python, SQL, Bash
 - **Frameworks:** Spring Boot / MVC / Security / Data-JPA, Hibernate, REST, Microservices, Event-Driven
 - **Kafka & Streaming:** Apache Kafka (producers, consumers, partitioning, event sourcing, idempotent/exactly-once), Kafka Connect & CDC (Debezium)
 - **Data stores:** PostgreSQL, Redis, MongoDB, DynamoDB, Elasticsearch
