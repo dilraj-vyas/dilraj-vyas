@@ -30,6 +30,7 @@ I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)*
 
 **Merged contributions:**
 - [debezium/debezium#8176](https://github.com/debezium/debezium/pull/8176): PostgreSQL connector, preserve NULL elements in enum arrays *(merged)*
+- [debezium/debezium#8199](https://github.com/debezium/debezium/pull/8199): PostgreSQL connector, preserve NULL elements in ltree arrays *(merged)* 
 
 ---
 
