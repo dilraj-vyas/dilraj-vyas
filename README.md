@@ -60,4 +60,4 @@ I'm actively contributing to **[Debezium](https://github.com/debezium/debezium)*
 
 I'm looking for **remote senior/staff backend roles** in payments, fintech, or data-intensive systems. If your team runs Kafka, CDC, or high-throughput transactional systems, I'll be productive on day one.
 
-📧 dilraj.vas@gmail.com     💼 [LinkedIn](https://www.linkedin.com/in/dilraj-vyas-53a687b0)
+📧 dilraj.vas@gmail.com  &nbsp·&nbsp   💼 [LinkedIn](https://www.linkedin.com/in/dilraj-vyas-53a687b0)
